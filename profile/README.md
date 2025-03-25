@@ -2,8 +2,6 @@
 
 <div align="center">
   
-  ![TCF Banner](https://via.placeholder.com/800x200?text=TCF+Organization)
-  
   ## 안녕하세요, 우리는 **TCF** 입니다 👋
   
   [![GitHub Stars](https://img.shields.io/github/stars/tcf-org?style=social)](https://github.com/tcf-org)
